@@ -30,10 +30,10 @@
       </a>
     </td>
      <td>
-      <a href="https://github.com/ArcletProject/Edoves">
+      <a href="https://github.com/ArcletProject/Entari">
         <picture>
-          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/ArcletProject/Edoves/image?description=1&descriptionEditable=A%20new%20abstract%20and%20simple%20bot%20framework.%20&font=Inter&language=1&logo=https%3A%2F%2Farclet.top%2Fimg%2Farclet.png&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Auto">
-          <img src="https://socialify.git.ci/ArcletProject/Edoves/image?description=1&descriptionEditable=A%20new%20abstract%20and%20simple%20bot%20framework.%20&font=Inter&language=1&logo=https%3A%2F%2Farclet.top%2Fimg%2Farclet.png&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light" />
+          <source media="(prefers-color-scheme: dark)" srcset="https://socialify.git.ci/ArcletProject/Entari/image?description=1&descriptionEditable=A%20new%20abstract%20and%20simple%20bot%20framework.%20&font=Inter&language=1&logo=https%3A%2F%2Farclet.top%2Fimg%2Farclet.png&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Auto">
+          <img src="https://socialify.git.ci/ArcletProject/Entari/image?description=1&descriptionEditable=A%20new%20abstract%20and%20simple%20bot%20framework.%20&font=Inter&language=1&logo=https%3A%2F%2Farclet.top%2Fimg%2Farclet.png&name=1&owner=1&pattern=Brick%20Wall&stargazers=1&theme=Light" />
         </picture>
       </a>
     </td>
